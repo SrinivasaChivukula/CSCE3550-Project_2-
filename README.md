@@ -240,7 +240,7 @@ CSCE3550-Project_2/
 
 ## 👤 Author / Submission Info
 
-**Name:** _Your Name Here_  
+**Name:** _Srinivasa Chivukula_  
 **EUID:** _ssc0167_  
 **Course:** CSCE 3550 — Cybersecurity  
 **Instructor:** _Your Instructor Name_  
