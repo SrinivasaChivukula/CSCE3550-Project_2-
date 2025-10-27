@@ -243,7 +243,7 @@ CSCE3550-Project_2/
 **Name:** _Srinivasa Chivukula_  
 **EUID:** _ssc0167_  
 **Course:** CSCE 3550 — Cybersecurity  
-**Instructor:** _Your Instructor Name_  
+**Instructor:** _Jacob Hochstetler_  
 
 ---
 
